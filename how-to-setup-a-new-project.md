@@ -32,7 +32,7 @@
 
 15. Add prettier with "`addprettier`"
 
-16. Add all files in your local repository with "`git add .`" to stage them for the initial commit.
+16. Add all files in your local repository with "`git add .`" to stage them for the initial commit
 
 17. Use "`git commit -m "Initial Commit`" to commit the staged files
 
@@ -44,7 +44,7 @@
 
 21. Initialize it without anything else
 
-22. Choose _…or push an existing repository from the command line_
+22. On the next page choose _…or push an existing repository from the command line_
 
 23. Go back to the terminal and use the following commands:
 
@@ -52,15 +52,17 @@
     - `git branch -M main`
     - `git push -u origin main`
 
-24. Congratulations, you are all set up.
+These are also shown in the box on GitHub. Make sure you choose SSH if you copy them out of the box
 
-25. Create a new branch with "`git checkout -b name-of-your-branch`"
+24. Congratulations, you are all set up!
 
-26. This will create a new branch and directly switch to it
+25. Switch back to the terminal and create a new branch with "`git checkout -b name-of-your-branch`". This will create a new branch and directly switch to it
 
-27. Start your project with "`npm run dev`"
+26. Start your project with "`npm run dev`"
 
-28. Start coding your project in Visual Studio Code with "`code .`"
+27. This will start the vite dev server locally. By default it will start at http://localhost:3000/. Copy this to your browser and see all changes made to your project live
+
+28. Back in the terminal, start coding your project in Visual Studio Code with "`code .`"
 
 # Happy hacking!
 

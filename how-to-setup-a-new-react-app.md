@@ -10,7 +10,7 @@
 
 5. Install styled components with "`npm install --save styled-components`"
 
-6. Add all files in your local repository with "`git add .`" to stage them for the initial commit.
+6. Add all files in your local repository with "`git add .`" to stage them for the initial commit
 
 7. Use "`git commit -m "Initial Commit`" to commit the staged files
 
@@ -22,7 +22,7 @@
 
 11. Initialize it without anything else
 
-12. Choose _…or push an existing repository from the command line_
+12. On the next page choose _…or push an existing repository from the command line_
 
 13. Go back to the terminal and use the following commands:
 
@@ -30,15 +30,15 @@
     - `git branch -M main`
     - `git push -u origin main`
 
-14. Congratulations, you are all set up.
+These are also shown in the box on GitHub. Make sure you choose SSH if you copy them out of the box
 
-15. Create a new branch with "`git checkout -b name-of-your-branch`"
+14. Congratulations, you are all set up!
 
-16. This will create a new branch and directly switch to it
+15. Switch back to the terminal and create a new branch with "`git checkout -b name-of-your-branch`". This will create a new branch and directly switch to it
 
-17. Start your app with "`npm start`"
+16. Start your app with "`npm start`" This will start the dev server locally. By default it will start at http://localhost:3000/ and automatically open in your default browser
 
-18. Start coding your app in Visual Studio Code with "`code .`"
+17. Back in the terminal, start coding your app in Visual Studio Code with "`code .`"
 
 # Happy hacking!
 
