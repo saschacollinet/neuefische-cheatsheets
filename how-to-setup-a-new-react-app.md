@@ -41,3 +41,5 @@
 18. Start coding your app in Visual Studio Code with "`code .`"
 
 # Happy hacking!
+
+[Back](README.md)

@@ -60,6 +60,8 @@
 
 27. Start your project with "`npm run dev`"
 
-28. 18. Start coding your project in Visual Studio Code with "`code .`"
+28. Start coding your project in Visual Studio Code with "`code .`"
 
 # Happy hacking!
+
+[Back](README.md)
