@@ -53,3 +53,13 @@
     - `git push -u origin main`
 
 24. Congratulations, you are all set up.
+
+25. Create a new branch with "`git checkout -b name-of-your-branch`"
+
+26. This will create a new branch and directly switch to it
+
+27. Start your project with "`npm run dev`"
+
+28. 18. Start coding your project in Visual Studio Code with "`code .`"
+
+# Happy hacking!
