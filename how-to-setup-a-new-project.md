@@ -44,4 +44,12 @@
 
 21. Initialize it without anything else
 
-22. Coose _…or push an existing repository from the command line_
+22. Choose _…or push an existing repository from the command line_
+
+23. Go back to the terminal and use the following commands:
+
+    - `git remote add origin git@github.com:USERNAME/REPONAME.git`
+    - `git branch -M main`
+    - `git push -u origin main`
+
+24. Congratulations, you are all set up.
