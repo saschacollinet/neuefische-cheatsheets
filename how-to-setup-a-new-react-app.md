@@ -10,21 +10,23 @@
 
 5. Install styled components with "`npm install --save styled-components`"
 
-6. Add all files in your local repository with "`git add .`" to stage them for the initial commit
+6. Add prettier with "`addprettier`"
 
-7. Use "`git commit -m "Initial Commit`" to commit the staged files
+7. Add all files in your local repository with "`git add .`" to stage them for the initial commit
 
-8. Create a new repository on GitHub: https://github.com/new
+8. Use "`git commit -m "Initial Commit`" to commit the staged files
 
-9. Give your repository a name (usually the same as your local repository)
+9. Create a new repository on GitHub: https://github.com/new
 
-10. Set to public if you want others to be able to review it, otherwise set to privat
+10. Give your repository a name (usually the same as your local repository)
 
-11. Initialize it without anything else
+11. Set to public if you want others to be able to review it, otherwise set to privat
 
-12. On the next page choose _…or push an existing repository from the command line_
+12. Initialize it without anything else
 
-13. Go back to the terminal and use the following commands:
+13. On the next page choose _…or push an existing repository from the command line_
+
+14. Go back to the terminal and use the following commands:
 
     - `git remote add origin git@github.com:USERNAME/REPONAME.git`
     - `git branch -M main`
@@ -32,13 +34,13 @@
 
 These are also shown in the box on GitHub. Make sure you choose SSH if you copy them out of the box
 
-14. Congratulations, you are all set up!
+15. Congratulations, you are all set up!
 
-15. Switch back to the terminal and create a new branch with "`git checkout -b name-of-your-branch`". This will create a new branch and directly switch to it
+16. Switch back to the terminal and create a new branch with "`git checkout -b name-of-your-branch`". This will create a new branch and directly switch to it
 
-16. Start your app with "`npm start`" This will start the dev server locally. By default it will start at http://localhost:3000/ and automatically open in your default browser
+17. Start your app with "`npm start`" This will start the dev server locally. By default it will start at http://localhost:3000/ and automatically open in your default browser
 
-17. Back in the terminal, start coding your app in Visual Studio Code with "`code .`"
+18. Back in the terminal, start coding your app in Visual Studio Code with "`code .`"
 
 # Happy hacking!
 
