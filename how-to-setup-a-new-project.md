@@ -34,7 +34,7 @@
 
 16. Add all files in your local repository with "`git add .`" to stage them for the initial commit
 
-17. Use "`git commit -m "Initial Commit`" to commit the staged files
+17. Use "`git commit -m "Initial Commit"`" to commit the staged files
 
 18. Create a new repository on GitHub: https://github.com/new
 
